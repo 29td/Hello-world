@@ -1,56 +1,49 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
-> Description the project.
+> Add linters to html/css.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML/CSS
+- Node.js
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+Git-Download & install
+Node.js Download & install
+Vscode-Download & install
 
 ### Setup
+On the top right of your GitHub create a repo and name it with respective to your GitHub name.
 
 ### Install
-
-### Usage
+Install VSCODE
+Install Git-bash
+Install Node.js
 
 ### Run tests
-
-### Deployment
-
+Run your code on VSCode
 
 
-## Authors
 
-👤 **Author1**
+## Nonhlanhla
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤  Bellow are my social media platform that where you can find me:
 
-👤 **Author2**
+- GitHub: [@githubhandle](https://github.com/29td)
+- Twitter: [@NonhlanhlaMnde6](https://twitter.com/NonhlanhlaMnde6)
+- LinkedIn: [Nonhlanhla Mndebele](https://linkedin.com/in/nonhlanhla-mndebele-ab7448226)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
 
 ## 🤝 Contributing
 
@@ -64,9 +57,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- I'm grateful to all those who helped with thier code to clear up confusion.
+- It's such an honour to be sharing my work with everyone.
+
 
 ## 📝 License
 
