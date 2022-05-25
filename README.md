@@ -39,7 +39,7 @@ Run your code on VSCode
 
 👤  Bellow are my social media platform that where you can find me:
 
-- GitHub: [@githubhandle](https://github.com/29td)
+- GitHub: [@29td](https://github.com/29td)
 - Twitter: [@NonhlanhlaMnde6](https://twitter.com/NonhlanhlaMnde6)
 - LinkedIn: [Nonhlanhla Mndebele](https://linkedin.com/in/nonhlanhla-mndebele-ab7448226)
 
