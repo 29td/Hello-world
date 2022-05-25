@@ -41,7 +41,7 @@ Run your code on VSCode
 
 - GitHub: [@githubhandle](https://github.com/29td)
 - Twitter: [@NonhlanhlaMnde6](https://twitter.com/NonhlanhlaMnde6)
-- LinkedIn: [Nonhlanhla Mndebele](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [Nonhlanhla Mndebele](https://linkedin.com/in/nonhlanhla-mndebele-ab7448226)
 
 
 
